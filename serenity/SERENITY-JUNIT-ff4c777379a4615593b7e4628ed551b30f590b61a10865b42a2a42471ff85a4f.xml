@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="agrega al carrito el tercer item si esta disponible para compra." skipped="0" tests="1" time="149.08" timestamp="2022-09-22 01:22:13"><testcase name="Cargar al carrito de compra un producto encontrado a traves de busqueda con nombre del articulo"/></testsuite>
